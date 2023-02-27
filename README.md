@@ -1,2 +1,1 @@
-# alx-pre_course
-My first readme 
+Documentation for 0x01-git
